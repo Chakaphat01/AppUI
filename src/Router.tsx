@@ -1,6 +1,6 @@
 import { createBrowserRouter } from "react-router";
-import Page01 from "./page01";
-import Page02 from "./page02";
+import Page01 from "./Page01";
+import Page02 from "./Page02";
 
 const Router = createBrowserRouter
 
